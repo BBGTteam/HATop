@@ -51,6 +51,17 @@
             <version>3.141.59</version>
             <scope>compile</scope>
         </dependency>
+        <dependency>
+            <groupId>com.jamierf</groupId>
+            <artifactId>rxtx</artifactId>
+            <version>1.2</version>
+        </dependency>
+        <dependency>
+            <groupId>com.fazecast</groupId>
+            <artifactId>jSerialComm</artifactId>
+            <version>[2.0.0,3.0.0)</version>
+        </dependency>
+
     </dependencies>
 
     <properties>
